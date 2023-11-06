@@ -1,0 +1,3 @@
+# site-lite
+
+## Default test
